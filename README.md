@@ -1,16 +1,5 @@
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Welcome to WDI: Learning Experience + Classroom Culture (60 min)
-
-| Timing | Type 
-| --- | ---
-| 10 min | [Your Instructional Team](#introduction) 
-| 10 min | [What to Expect](#expectations) 
-| 10 min | [GA Culture](#ga-culture) 
-| 15 min | [Student Expectations](#student-expectations) 
-| 5 min | [Plagiarism](#plagiarism) 
-| 10 min | [Student Work](#student-work)
-| 15 min | [Introductions](#introductions) 
-| 10 min | [Q&A](#questions) 
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Welcome to WDI: Learning Experience + Classroom Culture
 
 
 
@@ -22,45 +11,23 @@
 - Get to know your classmates.
 - Get familiar with class culture.
 
-
-
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-
-- Fill in relevant details for your specific cohort.
-- Optional: Create a deck for this intro session. For an example, see this [Orientation Deck](https://drive.google.com/file/d/0B-kyGN2IJQspMGlxTUVmcGY1OVE/view).
-
----
-
-<a name="introduction"></a>
-## Your Instructional Team (10 min)
-
-#### Instructor Introduction
-- Instructor Names
-
-  > Instructor Note: Fill this in with relevant details about your team.
-
 #### Roles
-1. Instructor Lead
+1. Instructor Lead - Justin
   - Lesson blocks
   - Code-alongs
   - Labs
-  - Each instructor takes on a different topic for each unit.
-  - Grades homework
-1. Instructor Associate
+  - Reviews homework
+  - Reviews Projects
+1. Instructor Associate - Tina
   - Morning exercises
   - Afternoon code reviews
-  - Wednesday second-pass/reviews
   - Creates homework
-  - Grades homework
+  - Reviews homework
 1. Evening TA
   - One-on-one help
 
-
-  > Instructor Note: Fill this in with relevant details about your team.
-
 <a name="expectations"></a>
-## What to Expect (10 min)
+## What to Expect
 
 #### Emotional Framing
 - Programming is not about learning a sequence of steps. It's about developing a mindset to solve problems and think programmatically.
@@ -85,7 +52,7 @@
 
 
 <a name="ga-culture"></a>
-## GA Culture (10 min)
+## GA Culture 
 
 #### Classroom Culture
 - This is an open, safe environment.
@@ -104,7 +71,7 @@
 
 
 <a name="student-expectations"></a>
-## Student Expectations (15 min)
+## Student Expectations 
 1. Be Present.
   - We take attendance at 10:15 a.m.
   - Pay attention.
@@ -120,10 +87,8 @@
 6. Be Alert and Mindful, not Distracted
 
 
- > Instructor Note: Fill in with relevant details about your cohort.
-
 <a name="plagiarism"></a>
-## Plagiarism (10 min)
+## Plagiarism
 #### Statement
 
 General Assembly takes academic honesty very seriously and will not tolerate any student who plagiarizes in order to satisfy course requirements. Immersive programs at General Assembly are intensive and require a lot of work on the part of the student. That said, students will occasionally not be able to complete work in a timely fashion.  
@@ -146,7 +111,7 @@ In cases of egregious offenses (e.g., presenting another student's project, an e
 
 
 <a name="student-work"></a>
-## Intro to Assessments and Exit Tickets (10 min)
+## Intro to Assessments and Exit Tickets
 
 #### Stand Up
 - Wins
@@ -188,7 +153,7 @@ In cases of egregious offenses (e.g., presenting another student's project, an e
 
 
 <a name="introductions"></a>
-## Introductions (15 min)
+## Introductions 
 
 #### Briefly Tell Us About You
 - What's your name?
@@ -202,9 +167,7 @@ In cases of egregious offenses (e.g., presenting another student's project, an e
 #### Tell Us About Your Programming Experience
 - What did you enjoy about the programming work you did in Fundamentals?
 
-> Instructor Note: There are lots of fun ice breakers you can experiment with either today or over the course of the next several days to build the class' community and culture.
-***
+
 
 <a name="questions"></a>
-## Q&A (10 min)
-> Instructor Note: Address student questions and concerns.
+## Q&A 
