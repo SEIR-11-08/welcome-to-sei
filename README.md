@@ -18,12 +18,12 @@
   - Labs
   - Reviews homework
   - Reviews Projects
-1. Instructor Associate - Tina
+2. Instructor Associate - Tina
   - Morning exercises
   - Afternoon code reviews
   - Creates homework
   - Reviews homework
-1. Evening TA
+3. Evening TA
   - One-on-one help
 
 <a name="expectations"></a>
