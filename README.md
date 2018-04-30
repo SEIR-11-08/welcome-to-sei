@@ -136,7 +136,7 @@ In cases of egregious offenses (e.g., presenting another student's project, an e
 		- They're meant as exercises in programmatic thinking.
 		- Completing an assignment and only sleeping for two hours is worse than sleeping and not completing an assignment.
 1. When should I ask questions?
-	- Ask for help only when you've been stuck for several hours.
+	- Ask for help only when you've been stuck .2 hours.
 		- The more time you spend fixing your own bugs, the more you will learn.
 		- Getting an answer from someone else stalls the learning process.
 
