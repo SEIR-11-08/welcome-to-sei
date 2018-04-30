@@ -110,16 +110,10 @@ On a first offense, a student will be placed on probation and asked to produce n
 In cases of egregious offenses (e.g., presenting another student's project, an external product, work you did before enrolling at General Assembly, work contracted out to professional developers, etc.), disciplinary action will be escalated to removal from the program.
 
 
-<a name="student-work"></a>
-## Intro to Assessments and Exit Tickets
-
-#### Stand Up
-- Wins
-- Repass
-- Feeling
-
 #### Team Building
 - Try to pair with someone new every day.
+- Say good morning!
+- This is your job for the next 12 weeks, bring some joy to work!
 
 #### Common Student Concerns
 1. I'm making a lot of mistakes.
