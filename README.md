@@ -12,13 +12,13 @@
 - Get familiar with class culture.
 
 #### Roles
-1. Instructor Lead - Justin
+1. Instructor Lead - Isha
   - Lesson blocks
   - Code-alongs
   - Labs
   - Reviews homework
   - Reviews Projects
-2. Instructor Associate - Tina
+2. Instructor Associate - Kenny
   - Morning exercises
   - Afternoon code reviews
   - Creates homework
