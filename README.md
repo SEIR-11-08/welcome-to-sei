@@ -23,7 +23,7 @@
   - Afternoon code reviews
   - Creates homework
   - Reviews homework
-3. Evening TA
+3. Evening TA - Kyle Easton
   - One-on-one help
 
 <a name="expectations"></a>
@@ -73,7 +73,7 @@
 <a name="student-expectations"></a>
 ## Student Expectations 
 1. Be Present.
-  - We take attendance at 10:15 a.m.
+  - We take attendance at 9:15 a.m.
   - Pay attention.
   - Let us know if you are running late by Slacking your instructor.
   - With regard to excused absences:
