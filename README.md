@@ -19,8 +19,9 @@
   - Reviews homework
   - Reviews Projects
 2. Instructor Associate - Brock
-  - Morning exercises
-  - Afternoon code reviews
+  - Lesson blocks
+  - Code-alongs
+  - Labs
   - Creates homework
   - Reviews homework
 3. Evening TA - Kyle Easton
