@@ -18,7 +18,7 @@
   - Labs
   - Reviews homework
   - Reviews Projects
-2. Instructor Associate - Brock
+2. Instructor Associate -
   - Lesson blocks
   - Code-alongs
   - Labs
