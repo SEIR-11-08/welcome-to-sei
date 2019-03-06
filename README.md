@@ -77,9 +77,10 @@
   - We take attendance at 9:15 a.m.
   - Pay attention.
   - Let us know if you are running late by Slacking your instructor.
-  - With regard to excused absences:
- 	 - Multiple instances of tardiness = absence.
-  	- You must stay beneath the contractual limit of absences in order to successfully complete the course.
+  - Attendance Policy:
+ 	- You are allowd a total of 3 absences.
+	- 3 instances of tardiness = 1 absence.
+  	- You must stay beneath the contractual limit of absences in order to successfully complete the course and receive Outcomes support.
 2. Be Persistent
 3. Be Independent
 4. Be Thoughtful
