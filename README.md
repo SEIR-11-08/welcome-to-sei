@@ -18,13 +18,13 @@
   - Labs
   - Reviews homework
   - Reviews Projects
-2. Instructor Associate -
+2. Instructor Associate - Larissa
   - Lesson blocks
   - Code-alongs
   - Labs
   - Creates homework
   - Reviews homework
-3. Evening TA - Kyle Easton
+3. Evening TA's - Gabe Ng & Emily Lindborg
   - One-on-one help
 
 <a name="expectations"></a>
