@@ -12,19 +12,23 @@
 - Get familiar with class culture.
 
 #### Roles
-1. Instructor Lead - Kenny
+1. Instructor - Kenny
   - Lesson blocks
   - Code-alongs
   - Labs
   - Reviews homework
   - Reviews Projects
-2. Instructor Associate - Dalton
+2. Instructor - Dalton
   - Lesson blocks
   - Code-alongs
   - Labs
   - Creates homework
   - Reviews homework
-3. Evening TA's - Scotty & Ronni
+  
+3. Instructor Associate - Matt
+  - One-on-one help
+  - Reviews homework
+4. Evening TA's - Scotty & Ronni
   - One-on-one help
 
 <a name="expectations"></a>
