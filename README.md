@@ -28,7 +28,7 @@
 3. Instructor Associate - Matt
   - One-on-one help
   - Reviews homework
-4. Evening TA's - Scotty & Ronni
+4. Evening TA's - Michael & Jason
   - One-on-one help
 
 <a name="expectations"></a>
