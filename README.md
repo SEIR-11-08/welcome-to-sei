@@ -107,14 +107,6 @@ Plagiarism is the act of claiming work that does not belong to you as your own. 
 
 Generally, it is safe to assume that, if you are including work that does not belong to you in an effort to build upon your own work, you can and should cite it. If you are using work that does not belong to you as a replacement for your own work, you are probably plagiarizing.
 
-#### Procedure
-
-If an instructor doubts a student's work or has evidence of plagiarism, the student will be asked to justify the work they has submitted. Should the student be unable to show that the work is in fact his or her own, they will face disciplinary action.  
-
-On a first offense, a student will be placed on probation and asked to produce new material conforming to the original assignment. If a student is already on probation, they will be removed from the program and barred from taking any further classes at General Assembly.
-
-In cases of egregious offenses (e.g., presenting another student's project, an external product, work you did before enrolling at General Assembly, work contracted out to professional developers, etc.), disciplinary action will be escalated to removal from the program.
-
 
 #### Team Building
 - Try to pair with someone new every day.
