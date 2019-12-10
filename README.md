@@ -124,22 +124,5 @@ Generally, it is safe to assume that, if you are including work that does not be
 1. Get out a little bit each day and do something that's not related to programming.
 
 
-<a name="introductions"></a>
-## Introductions 
-
-#### Briefly Tell Us About You
-- What's your name?
-- Where are you from?
-- What is your hometown like?
-
-#### Help Us Get to Know You
-- Tell us a guilty pleasure.
-- Share a fun fact about yourself.
-
-#### Tell Us About Your Programming Experience
-- What did you enjoy about the programming work you did in Fundamentals?
-
-
-
 <a name="questions"></a>
 ## Q&A 
