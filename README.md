@@ -62,7 +62,7 @@
   - Pay attention.
   - Let us know if you are running late by Slacking your instructor.
   - Attendance Policy:
- 	- You are allowd a total of 3 absences.
+ 	- You are allowed a total of 3 absences.
 	- 3 instances of tardiness = 1 absence.
   	- You must stay beneath the contractual limit of absences in order to successfully complete the course and receive Outcomes support.
 2. Be Persistent
