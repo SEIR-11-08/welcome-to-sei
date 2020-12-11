@@ -58,7 +58,7 @@
 <a name="student-expectations"></a>
 ## Student Expectations 
 1. Be Present.
-  - We take attendance at 9:00 a.m.
+  - We take attendance at 9:00 a.m. PST / 12:00 p.m. EST
   - Pay attention.
   - Let us know if you are running late by Slacking your instructor.
   - Attendance Policy:
