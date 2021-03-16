@@ -89,12 +89,12 @@ Plagiarism is the act of claiming work that does not belong to you as your own. 
 Generally, it is safe to assume that, if you are including work that does not belong to you in an effort to build upon your own work, you can and should cite it. If you are using work that does not belong to you as a replacement for your own work, you are probably plagiarizing.
 
 
-#### Team Building
+## Team Building
 - Try to pair with someone new every day.
 - Say good morning!
 - This is your job for the next 12 weeks, bring some joy to work!
 
-#### Common Student Concerns
+## Common Student Concerns
 1. I'm making a lot of mistakes.
 1. What about imposter syndrome?
 1. I don't "do" math.
@@ -115,11 +115,11 @@ Generally, it is safe to assume that, if you are including work that does not be
 		- They're meant as exercises in programmatic thinking.
 		- Completing an assignment and only sleeping for two hours is worse than sleeping and not completing an assignment.
 1. When should I ask questions?
-	- Ask for help only when you've been stuck .2 hours.
+	- Ask for help only when you've been stuck for 15 to 20 minutes.
 		- The more time you spend fixing your own bugs, the more you will learn.
 		- Getting an answer from someone else stalls the learning process.
 
-#### Advice
+## Advice
 1. Ask for constant feedback.
 1. Stand up and walk around.
 1. Get out a little bit each day and do something that's not related to programming.
