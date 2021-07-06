@@ -48,6 +48,8 @@
 - Don't compare yourself to others, compare yourself to who you were yesterday.
 - You get back what you put in.
 - No use of the word "stupid"
+- Ask your questions! Someone else most likely has that question.
+- Keep it human
 
 #### Mentorship Culture
 - GA collaborative and supportive; we lead with offering help.
