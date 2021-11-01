@@ -2,8 +2,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Welcome to SEI: Learning Experience + Classroom Culture
 
 
-
-### LEARNING OBJECTIVES
+## LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
 
 - Understand the expectations for the course.
@@ -11,12 +10,11 @@
 - Get to know your classmates.
 - Get familiar with class culture.
 
-<a name="expectations"></a>
 ## What to Expect
 
-#### Emotional Framing
+### Emotional Framing
 - Programming is not about learning a sequence of steps. It's about developing a mindset to solve problems and think programmatically.
-- Progamming language not as important as:
+- Programming language not as important as:
     - Critical/analytical/programmatic thinking.
     - Conceptualizing, not simply memorizing, ideas.
         - The internet is your notebook/memory.
@@ -36,10 +34,9 @@
 ![informed optimism?](assets/informed-optimism.jpeg)
 
 
-<a name="ga-culture"></a>
 ## GA Culture 
 
-#### Classroom Culture
+### Classroom Culture
 - This is an open, safe environment.
 - Keep criticism positive and constructive.
 - Take ownership of your experience.
@@ -51,14 +48,13 @@
 - Ask your questions! Someone else most likely has that question.
 - Keep it human
 
-#### Mentorship Culture
+### Mentorship Culture
 - GA collaborative and supportive; we lead with offering help.
 - Some students are good at one thing, others at another. Leverage each other's strengths.
 - Teaching is the best way of truly solidifying your understanding of a concept.
 - Your classmates will be the best foundation for establishing a professional network in tech!
 
 
-<a name="student-expectations"></a>
 ## Student Expectations 
 1. Be Present.
   - We take attendance at 9:00 a.m. PST / 12:00 p.m. EST
@@ -76,15 +72,14 @@
 6. Be Alert and Mindful, not Distracted
 
 
-<a name="plagiarism"></a>
 ## Plagiarism
-#### Statement
+### Statement
 
 General Assembly takes academic honesty very seriously and will not tolerate any student who plagiarizes in order to satisfy course requirements. Immersive programs at General Assembly are intensive and require a lot of work on the part of the student. That said, students will occasionally not be able to complete work in a timely fashion.  
 
 Rather than rely on work that's not your own to create the appearance of success, let your instructional team know as early as possible that you are not prepared for the work. It is much easier to come up with a plan than it is to succeed if you've been removed from the program.
 
-#### Definition
+### Definition
 
 Plagiarism is the act of claiming work that does not belong to you as your own. It can take many forms, and each concentration at General Assembly will have slightly different guidelines for identifying plagiarism in their fields.  
 
@@ -125,7 +120,3 @@ Generally, it is safe to assume that, if you are including work that does not be
 1. Ask for constant feedback.
 1. Stand up and walk around.
 1. Get out a little bit each day and do something that's not related to programming.
-
-
-<a name="questions"></a>
-## Q&A 
